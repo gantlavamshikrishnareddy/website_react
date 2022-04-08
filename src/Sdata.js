@@ -1,9 +1,9 @@
-import c from "/Users/vamshikrishnareddygantla/Downloads/multipage-react-website-master11/multipage-react-website-master/src/images/1.jpeg";
-import java from "/Users/vamshikrishnareddygantla/Downloads/multipage-react-website-master11/multipage-react-website-master/src/images/2.png";
-import php from "/Users/vamshikrishnareddygantla/Downloads/multipage-react-website-master11/multipage-react-website-master/src/images/3.jpeg";
-import python from "/Users/vamshikrishnareddygantla/Downloads/multipage-react-website-master11/multipage-react-website-master/src/images/4.jpeg";
-import andriod from "/Users/vamshikrishnareddygantla/Downloads/multipage-react-website-master11/multipage-react-website-master/src/images/5.jpeg";
-import web from "/Users/vamshikrishnareddygantla/Downloads/multipage-react-website-master11/multipage-react-website-master/src/images/6.jpeg";
+import c from "../src/images/1.jpeg";
+import java from "../src/images/2.png";
+import php from "../src/images/3.jpeg";
+import python from "../src/images/4.jpeg";
+import andriod from "../src/images/5.jpeg";
+import web from "../src/images/6.jpeg";
 
 const Sdata = [
     {
